@@ -1,4 +1,4 @@
-# Car-Rental-System
+<h1 align="center" > Car Rent System</h1>
 <h2>• Short Description of my project</h2>
 <p>The Referred Project is a Car Rental System. The Business Application is GUI based and it solves many Purposes that a Car Rental System usually does. 
 The Transition from Console base to GUI based has been an intuitive and user-friendly experience. 
@@ -51,6 +51,11 @@ with the cars.</p>
 <p>o <strong> View Announcements :</strong> View Announcements put by the Admin.</p>
 
 <p>o <strong> Log Out : </strong> Log out my account so that no one could access my account.</p>
+<h2> InterFaces & Wireframes</h2>
 
-<img src = "">
+<img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CarRentalSystem.JPG?raw=true" alt = "First Pic">
+<img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/AdminMenu.JPG?raw=true" alt = "Pic of Admin Menu Feature">
+<img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CostumerForm.JPG?raw=true" alt = "Pic of customer Feature">
+<!-- <img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/AddCars.JPG?raw=true" alt = "Pic of addCars Feature">
+<img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CostumerAvailability.JPG?raw=true" > -->
 
