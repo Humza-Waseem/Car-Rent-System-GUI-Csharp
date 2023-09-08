@@ -1,3 +1,5 @@
+![logo](https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CRCDIAGRAM.JPG)
+
 <h1 align="center" > Car Rent System</h1>
 <h2>• Short Description of my project</h2>
 <p>The Referred Project is a Car Rental System. The Business Application is GUI based and it solves many Purposes that a Car Rental System usually does. 
