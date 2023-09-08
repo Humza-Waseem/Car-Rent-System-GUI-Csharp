@@ -1,0 +1,15 @@
+Name,Password,Role
+kami,12,costumer
+h,12,costumer
+j,12,costumer
+mk,12,costumer
+jojo,12,costumer
+asad,12,costumer
+bashir,12,costumer
+ahmad,12,costumer
+habibi,1212,costumer
+sara,12,costumer
+sarah,12,costumer
+huzaifa,12,costumer
+huzaifah,12,customer
+ashhad,1212,customer

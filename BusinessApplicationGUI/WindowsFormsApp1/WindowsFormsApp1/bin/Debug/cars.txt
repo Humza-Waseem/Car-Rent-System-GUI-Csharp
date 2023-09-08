@@ -1,0 +1,4 @@
+Car,Company,0,Color
+santro,haundai,5000,white
+sportage,Kia,13000,white
+civic,honda,12500,yellow
