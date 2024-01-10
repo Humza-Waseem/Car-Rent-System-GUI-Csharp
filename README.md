@@ -1,4 +1,4 @@
-![logo](https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CRCDIAGRAM.JPG)
+
 
 <h1 align="center" > Car Rent System</h1>
 <h2>• Short Description of my project</h2>
@@ -6,9 +6,11 @@
 The Transition from Console base to GUI based has been an intuitive and user-friendly experience. 
 The best thing about this System is that it provide User Control over the system which was lacking in Console based System.
 This application is very user-friendly as it provides a separate menu for Admin as well as Customers. </p>
-<h2>•	Users of Application</h2>
+<h2>Class Diagram</h2>
+<img width="500" src="https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CRCDIAGRAM.JPG" alt="class diagram pic">
+<h2>	Users of Application</h2>
 
-<h4 font-weight :bold;>•	Following are the users of my application:</h4>
+<h4 font-weight :bold;> &nbsp;	&nbsp;Following are the users of my application:</h4>
 
 <p>o <strong>Customers or Clients :</strong> Customers can Get Benefits from the System and use the system according to their needs.</p>
 <p>o <strong>Admin :</strong> Admin can access the portal anytime and can see how much many users rented the cars and other tasks performed by the customer. Admins has the access to the backbone of the system. 
@@ -16,7 +18,7 @@ This application is very user-friendly as it provides a separate menu for Admin 
 </p>
 
 
-  <h2>•	Functional Requirements</h2>
+  <h2>&nbsp;&nbsp;Functional Requirements</h2>
 <h4>Following are the functional requirements of my application</h4>
 
 
