@@ -63,3 +63,12 @@ with the cars.</p>
 <!-- <img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/AddCars.JPG?raw=true" alt = "Pic of addCars Feature">
 <img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CostumerAvailability.JPG?raw=true" > -->
 
+<h2>Conclusion</h2>
+<p>The Car Rental System implements the concepts used in Object Oriented Programming(OOPS). The Programming logic has been implemented through C# and the whole application is divided into different layers to manage and understand the functionalites more easilty </p>
+
+<h2>Instructions for Usage</h2>
+<li>FORK the Repo</li>
+<li>STAR the Repo</li>
+<li>CLone the project & store it on your local PC</li>
+<li>Run the .sln File(WindowsFormsApp1.sln) on MICROSOFT VISUAL STUDIO to get the project up & running.</li>
+
