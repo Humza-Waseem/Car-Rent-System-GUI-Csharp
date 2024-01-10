@@ -1,13 +1,16 @@
 
 
 <h1 align="center" > Car Rent System</h1>
-<h2>• Short Description of my project</h2>
+<h2>Short Description of my project</h2>
 <p>The Referred Project is a Car Rental System. The Business Application is GUI based and it solves many Purposes that a Car Rental System usually does. 
 The Transition from Console base to GUI based has been an intuitive and user-friendly experience. 
 The best thing about this System is that it provide User Control over the system which was lacking in Console based System.
-This application is very user-friendly as it provides a separate menu for Admin as well as Customers. </p>
+This application is very user-friendly as it provides a separate menu for Admin as well as Customers. </p> <br>
 <h2>Class Diagram</h2>
-<img width="500" src="https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CRCDIAGRAM.JPG" alt="class diagram pic">
+<p align="center">
+  <img width="500" src="https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CRCDIAGRAM.JPG" alt="class diagram pic">
+</p>
+
 <h2>	Users of Application</h2>
 
 <h4 font-weight :bold;> &nbsp;	&nbsp;Following are the users of my application:</h4>
@@ -56,10 +59,11 @@ with the cars.</p>
 
 <p>o <strong> Log Out : </strong> Log out my account so that no one could access my account.</p>
 <h2> InterFaces & Wireframes</h2>
-
-<img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CarRentalSystem.JPG?raw=true" alt = "First Pic">
-<img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/AdminMenu.JPG?raw=true" alt = "Pic of Admin Menu Feature">
-<img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CostumerForm.JPG?raw=true" alt = "Pic of customer Feature">
+<p align="center">
+<img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CarRentalSystem.JPG?raw=true" alt = "First Pic"> <br>
+<img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/AdminMenu.JPG?raw=true" alt = "Pic of Admin Menu Feature"><br>
+<img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CostumerForm.JPG?raw=true" alt = "Pic of customer Feature"><br>
+</p>
 <!-- <img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/AddCars.JPG?raw=true" alt = "Pic of addCars Feature">
 <img src = "https://github.com/Humza-Waseem/Car-Rent-System-GUI-Csharp/blob/main/Wireframes/CostumerAvailability.JPG?raw=true" > -->
 
